@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+# Some Helpful Hints for Statistics and Machine Learning
 
-You can use the [editor on GitHub](https://github.com/CuddlyPuppy/CuddlyPuppy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I would like to post hints on this webpage for some quick help.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Links
 
-### Markdown
+1. [Statistics](statistics.md)
+2. [R](rStuff.md)
+3. [Machine Learning](machineLearning.md)
+4. [Python](pythonStuff.md)
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
